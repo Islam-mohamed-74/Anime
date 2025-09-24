@@ -4,8 +4,7 @@
 
 Discover popular anime with smooth server-rendered pages, infinite scrolling, and delightful motion.
 
-![preview](./public/hero.png)
-
+![preview](./image.jpg)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-18-61dafb?logo=react&logoColor=061d2a)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
