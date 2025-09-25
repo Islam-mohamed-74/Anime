@@ -1,6 +1,6 @@
 <div align="center">
 
-# Anime Vault
+# Anime Vault .
 
 Discover popular anime with smooth server-rendered pages, infinite scrolling, and delightful motion.
 
